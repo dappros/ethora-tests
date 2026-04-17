@@ -1,5 +1,5 @@
 # ethora_tests
-Tests and QA automation for Ethora project
+Selenium tests and QA automation for Ethora project
 
 
 Download the File and 
